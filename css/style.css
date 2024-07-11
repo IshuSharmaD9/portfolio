@@ -256,12 +256,14 @@ ul{
 
 /* home */
 .home{
+    padding-top: 80px;
     min-height: 100vh;
     display: flex;
     color: var(--text-black-900);
 
 }
 .home .home-info{
+    
     flex:0 0 60% ;
     max-width: 60%;
 }
